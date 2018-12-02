@@ -1,0 +1,15 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "A NodeJS app using MySql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pravin Khandagale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
